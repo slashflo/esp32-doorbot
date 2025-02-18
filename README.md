@@ -1,6 +1,4 @@
-
-
-<img src="[https://example.com/qrcode.png](https://github.com/user-attachments/assets/6c8945ce-e6b2-409e-a2fb-beabf55d785e)" alt="QR Code" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/6c8945ce-e6b2-409e-a2fb-beabf55d785e" alt="QR Code" width="200" height="200">
 
 # ESP32 DoorBot Projekt
 
