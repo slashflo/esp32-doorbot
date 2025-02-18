@@ -1,3 +1,6 @@
+![adobe-express-qr-code](https://github.com/user-attachments/assets/6c8945ce-e6b2-409e-a2fb-beabf55d785e)
+
+
 # ESP32 DoorBot Projekt
 
 Das ESP32 DoorBot-Projekt dient als Lehrmodul, um Schülern und Studenten die Grundlagen von IoT-Anwendungen, Mikrocontroller-Programmierung und Gesichtserkennung näherzubringen. 
